@@ -1,1 +1,21 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+
+## To Run
+
+````
+npm i
+npm run dev
+
+````
+
+## Tech stack
+
+````
+
+* NextJS - For SEO
+
+* Styled Components - For styling
+
+* Jest and React Testing Library - For testing
+
+
+````
