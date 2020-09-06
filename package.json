@@ -1,0 +1,31 @@
+{
+  "name": "product-listing-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "jest --watch  --runInBand --detectOpenHandles"
+  },
+  "dependencies": {
+    "next": "9.4.4",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "styled-components": "^5.1.1"
+  },
+  "devDependencies": {
+    "@testing-library/dom": "^7.21.1",
+    "@testing-library/jest-dom": "^5.11.1",
+    "@testing-library/react": "^10.4.7",
+    "@types/node": "^14.0.23",
+    "@types/react": "^16.9.43",
+    "@types/styled-components": "^5.1.1",
+    "babel-jest": "^26.1.0",
+    "babel-plugin-styled-components": "^1.10.7",
+    "jest": "^26.1.0",
+    "jest-dom": "^4.0.0",
+    "jest-fetch-mock": "^3.0.3",
+    "typescript": "^3.9.7"
+  }
+}
